@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="778" height="1100" viewBox="0 0 778 1100" role="img" aria-labelledby="titulo descricao">
+  <title id="titulo">Requisição de pessoal com dados fictícios</title>
+  <desc id="descricao">Documento demonstrativo completo, com a borda direita restaurada.</desc>
+  <image href="requisicao.png" x="0" y="0" width="778" height="1100"/>
+  <line x1="755.5" y1="23" x2="755.5" y2="1078" stroke="#111111" stroke-width="1" shape-rendering="crispEdges"/>
+</svg>
