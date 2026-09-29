@@ -118,5 +118,5 @@ footer { display: flex; justify-content: space-between; gap: 25px; padding: 28px
   footer { flex-direction: column; }
 }
 
-.marca-logo{display:block;width:92px;height:64px;object-fit:cover;object-position:center;background:#fff;border:1px solid var(--linha);border-radius:10px}
-@media(max-width:560px){.marca-logo{width:78px;height:54px}}
+.marca-logo{display:block;width:64px;height:64px;object-fit:cover;object-position:center;background:#fff;border:1px solid var(--linha);border-radius:50%}
+@media(max-width:560px){.marca-logo{width:54px;height:54px}}
